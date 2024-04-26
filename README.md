@@ -14,7 +14,7 @@ https://doi.org/https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0368
 
 Author: Renan Liupekevicius Carnielli, TU Eindhoven, April 2024
 
-## comsol.zip folder description
+## comsol.zip folder description (DOWNLOAD FROM https://data.4tu.nl)
 
 This zip folder contains the comsol models for the direct numerical simulations (DNS) and the homogenised macro-scale model (HOM) shown in the article. 
 
