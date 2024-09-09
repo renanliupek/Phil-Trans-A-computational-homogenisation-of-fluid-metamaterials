@@ -1,8 +1,5 @@
 # cohoflu
 
-GitLab repository: https://gitlab.tue.nl/20204732/philosophical-transactions-a-computational-homogenisation-of-metamaterials
-
-dataset DOI: https://data.4tu.nl/datasets/0c31cd57-7ea1-4587-84e7-b9b75ff5fa2e
 
 ### Renan Liupekevicius Carnielli [r.liupekevicius.carnielli@tue.nl](mailto::r.liupekevicius.carnielli@tue.nl)
 
@@ -13,6 +10,13 @@ ASSOCIATED PEER-REVIEWED PUBLICATION
 [https://doi.org/https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0368
 ](https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0368)
 Author: Renan Liupekevicius Carnielli, TU Eindhoven, April 2024
+
+ALTERNATIVE LINKS
+
+GitLab repository: https://gitlab.tue.nl/20204732/philosophical-transactions-a-computational-homogenisation-of-metamaterials
+
+dataset DOI: https://data.4tu.nl/datasets/0c31cd57-7ea1-4587-84e7-b9b75ff5fa2e
+
 
 ## comsol.zip folder description (DOWNLOAD FROM https://data.4tu.nl)
 
