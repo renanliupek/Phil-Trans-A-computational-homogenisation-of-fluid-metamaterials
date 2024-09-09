@@ -10,8 +10,8 @@ Data Availability of the article "An efficient multiscale method for subwaveleng
 
 ASSOCIATED PEER-REVIEWED PUBLICATION
 
-https://doi.org/https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0368
-
+[https://doi.org/https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0368
+](https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0368)
 Author: Renan Liupekevicius Carnielli, TU Eindhoven, April 2024
 
 ## comsol.zip folder description (DOWNLOAD FROM https://data.4tu.nl)
